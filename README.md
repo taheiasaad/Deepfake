@@ -4,7 +4,7 @@ A deep learning project for detecting deepfake videos by classifying face images
 
 ## Overview
 
-This project builds a binary image classifier that determines whether a face in a video frame is authentic or has been manipulated using deepfake techniques. It uses the Celeb-DF-v2 dataset, which contains real and AI-generated fake celebrity videos.
+This project builds a binary image classifier that determines whether a face in a video frame is authentic or has been manipulated using deepfake techniques. It uses the Celeb-DF-v2 dataset, which contains real and AI-generated fake celebrity video.
 
 ## How It Works
 
@@ -41,6 +41,6 @@ This is an image classification task (REAL vs FAKE), not object detection or seg
 | F1-Score | 0.94 |
 | ROC-AUC | 0.82 |
 
-## Dataset              
+## Dataset
 
-[Celeb-DF-v2](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2) on Kaggle
+[Celeb-DF-v2](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2) on Kaggle.
