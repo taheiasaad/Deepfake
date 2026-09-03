@@ -41,6 +41,6 @@ This is an image classification task (REAL vs FAKE), not object detection or seg
 | F1-Score | 0.94 |
 | ROC-AUC | 0.82 |
 
-## Dataset
+## Dataset              
 
-[Celeb-DF-v2](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2) on Kaggle.
+[Celeb-DF-v2](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2) on Kaggle
